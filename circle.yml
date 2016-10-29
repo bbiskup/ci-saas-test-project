@@ -1,5 +1,6 @@
 machine:
   timezone: Europe/Berlin
-tests:
+
+test:
   override:
     - ./ci.sh
