@@ -7,6 +7,8 @@
 
 * CircleCI: ![CircleCI build status page](https://circleci.com/gh/bbiskup/ci-saas-test-project.svg?style=shield&circle-token=d5d1dd7847af8aa67fc98dd0814184d7d9514d80)
 
+* [![Build Status](https://drone.io/github.com/bbiskup/ci-saas-test-project/status.png)](https://drone.io/github.com/bbiskup/ci-saas-test-project/latest)
+
 ## Overview
 
 - Minimal project to be built on multiple SaaS platforms.
